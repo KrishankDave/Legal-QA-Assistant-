@@ -1,0 +1,802 @@
+[
+  {
+    "question": "If I'm a police officer, can I be held liable if I knowingly hide information about someone's plan to commit a crime that it's my duty as an officer to prevent?",
+    "answer": "Yes, you could be held liable under Section 119 IPC, which states that a public servant who intends to facilitate or knows it is likely to facilitate the commission of an offence, and conceals the existence of a design to commit such offence, can be punished.",
+    "ground_truth": "Yes, you could be held liable under Section 119 IPC, which states that a public servant who intends to facilitate or knows it is likely to facilitate the commission of an offence, and conceals the existence of a design to commit such offence, can be punished.",
+    "section_no": "119",
+    "section_title": "Public servant concealing design to commit offence which it is his duty to prevent",
+    "context": "Section 119: Public servant concealing design to commit offence which it is his duty to prevent\n\nWhoever, being a public servant intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence which it is his duty as such public servant to prevent, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design:"
+  },
+  {
+    "question": "Is a handwritten letter written in English considered a document under Indian law?",
+    "answer": "Yes, according to Section 29 IPC, since it is 'matter expressed or described upon any substance by means of letters' intended to be used as evidence of that matter.",
+    "ground_truth": "Yes, according to Section 29 IPC, since it is 'matter expressed or described upon any substance by means of letters' intended to be used as evidence of that matter.",
+    "section_no": "29",
+    "section_title": "Document",
+    "context": "Section 29: Document\n\nThe word “document” denotes any matter expressed or described upon any substance by means of letters, figures or marks, or by more than one of those means, intended to be used, or which may be used, as evidence of that matter."
+  },
+  {
+    "question": "I purchased some groceries from a local market and noticed that the vendor was using scales with weights that were visibly lighter than what they claimed. Can I file a complaint against them?",
+    "answer": "You can file a complaint against the vendor, as they are fraudulently using false weight in violation of Section 265 IPC.",
+    "ground_truth": "You can file a complaint against the vendor, as they are fraudulently using false weight in violation of Section 265 IPC.",
+    "section_no": "265",
+    "section_title": "Fraudulent use of false weight or measure",
+    "context": "Section 265: Fraudulent use of false weight or measure\n\nWhoever, fraudulently uses any false weight or false measure of length or capacity, or fraudulently uses any weight or any measure of length or capacity as a different weight or measure from what it is, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both."
+  },
+  {
+    "question": "I accidentally came across a machine that can make fake coins. Can I get in trouble for possessing it?",
+    "answer": "No, you may not be held liable if you didn't know or have reason to believe the machine was intended for counterfeiting coin, as per Section 235 IPC.",
+    "ground_truth": "No, you may not be held liable if you didn't know or have reason to believe the machine was intended for counterfeiting coin, as per Section 235 IPC.",
+    "section_no": "235",
+    "section_title": "Possession of instrument or material for the purpose of using the same for counterfeiting coin",
+    "context": "Section 235: Possession of instrument or material for the purpose of using the same for counterfeiting coin\n\nWhoever is in possession of any instrument or material, for the purpose of using the same for counterfeiting coin, or knowing or having reason to believe that the same is intended to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;"
+  },
+  {
+    "question": "I'm worried about my cousin who's been harbouring some suspicious guys in his flat. They've been coming and going at odd hours, and I think they might be planning something illegal. Can he get into trouble for this?",
+    "answer": "Your cousin could be in trouble under Section 216A IPC if it's proven that he knows or has reason to believe the individuals are about to commit or have recently committed robbery or dacoity and is harbouring them with the intention of facilitating their crime.",
+    "ground_truth": "Your cousin could be in trouble under Section 216A IPC if it's proven that he knows or has reason to believe the individuals are about to commit or have recently committed robbery or dacoity and is harbouring them with the intention of facilitating their crime.",
+    "section_no": "216A",
+    "section_title": "Penalty for harbouring robbers or dacoits",
+    "context": "Section 216A: Penalty for harbouring robbers or dacoits\n\nWhoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "If I'm one of the people participating in an unlawful assembly, what's the maximum punishment I could face?",
+    "answer": "According to Section 143 IPC, you can be punished with imprisonment for up to six months or with a fine, or with both.",
+    "ground_truth": "According to Section 143 IPC, you can be punished with imprisonment for up to six months or with a fine, or with both.",
+    "section_no": "143",
+    "section_title": "Punishment",
+    "context": "Section 143: Punishment\n\nWhoever is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+  },
+  {
+    "question": "If I encourage my friend to commit theft, but they get arrested before completing the crime, am I still punishable under Indian law?",
+    "answer": "According to Section 109 IPC, yes, you are punishable as your abetment led to the attempted offence of theft, and since no express provision is made for its punishment in this Code.",
+    "ground_truth": "According to Section 109 IPC, yes, you are punishable as your abetment led to the attempted offence of theft, and since no express provision is made for its punishment in this Code.",
+    "section_no": "109",
+    "section_title": "Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment",
+    "context": "Section 109: Punishment of abetment if the act abetted is committed in consequence and where no express provision is made for its punishment\n\nWhoever abets any offence shall, if the act abetted is committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with the punishment provided for the offence."
+  },
+  {
+    "question": "I accidentally knocked over a small potted plant in my neighbor's garden, causing some minor scratches to the soil. Is it considered an offence under Indian law?",
+    "answer": "No, it is not considered an offence under Indian law because the harm caused is so slight that no person of ordinary sense and temper would complain of such harm (Section 95 IPC).",
+    "ground_truth": "No, it is not considered an offence under Indian law because the harm caused is so slight that no person of ordinary sense and temper would complain of such harm (Section 95 IPC).",
+    "section_no": "95",
+    "section_title": "Act causing slight harm",
+    "context": "Section 95: Act causing slight harm\n\nNothing is an offence by reason that it causes, or that it is intended to cause, or that it is known to be likely to cause, any harm, if that harm is so slight that no person of ordinary sense and temper would complain of such harm."
+  },
+  {
+    "question": "If someone tries to steal my purse but fails, will they get the same punishment as if they had actually stolen it?",
+    "answer": "According to Section 393 IPC, an attempt to commit robbery is punishable with rigorous imprisonment for up to seven years and a fine. Since the attempted act did not succeed, the perpetrator would be held accountable under this section.",
+    "ground_truth": "According to Section 393 IPC, an attempt to commit robbery is punishable with rigorous imprisonment for up to seven years and a fine. Since the attempted act did not succeed, the perpetrator would be held accountable under this section.",
+    "section_no": "393",
+    "section_title": "Attempt to commit robbery",
+    "context": "Section 393: Attempt to commit robbery\n\nWhoever attempts to commit robbery shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "If my friend and I jointly commit a theft because we both know it's wrong, are we both equally responsible for the crime?",
+    "answer": "Yes, according to Section 35 IPC, each person who joins in the act with criminal knowledge or intention is liable for the act in the same manner as if the act were done by him alone.",
+    "ground_truth": "Yes, according to Section 35 IPC, each person who joins in the act with criminal knowledge or intention is liable for the act in the same manner as if the act were done by him alone.",
+    "section_no": "35",
+    "section_title": "When such an act is criminal by reason of its being done with a criminal knowledge or intention",
+    "context": "Section 35: When such an act is criminal by reason of its being done with a criminal knowledge or intention\n\nWhenever an act, which is criminal only by reason of its being done with a criminal knowledge or intention, is done by several persons, each of such persons who joins in the act with such knowledge or intention is liable for the act in the same manner as if the act were done by him alone with that knowledge or intention."
+  },
+  {
+    "question": "Can I be charged for a single instance of not doing something if it's part of a pattern of omissions over time?",
+    "answer": "According to Section 33, yes. The word 'act' denotes as well as series of acts as a single act, implying that a single omission can also be considered an omission under this section.",
+    "ground_truth": "According to Section 33, yes. The word 'act' denotes as well as series of acts as a single act, implying that a single omission can also be considered an omission under this section.",
+    "section_no": "33",
+    "section_title": "Act .  Omission",
+    "context": "Section 33: Act .  Omission\n\nThe word “act” denotes as well as series of acts as a single act: the word “omission” denotes as well a series of omissions as a single omission."
+  },
+  {
+    "question": "Can I use self-defense to hurt someone who's trying to harm me, but not kill them?",
+    "answer": "According to Section 101 IPC, yes, you can use self-defense to cause harm other than death to an assailant, under certain restrictions.",
+    "ground_truth": "According to Section 101 IPC, yes, you can use self-defense to cause harm other than death to an assailant, under certain restrictions.",
+    "section_no": "101",
+    "section_title": "When such right extends to causing any harm other than death",
+    "context": "Section 101: When such right extends to causing any harm other than death\n\nIf the offence be not of any of the descriptions enumerated in the last preceding section, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions mentioned in section 99, to the voluntary causing to the assailant of any harm other than death."
+  },
+  {
+    "question": "I know someone who has stolen something, but they're hiding in my house. Will I be in trouble if I keep them hidden from the police?",
+    "answer": "You may be guilty of harbouring an offender under Section 212 IPC, as you are concealing a person whom you know or have reason to believe is the offender with the intention of screening them from legal punishment.",
+    "ground_truth": "You may be guilty of harbouring an offender under Section 212 IPC, as you are concealing a person whom you know or have reason to believe is the offender with the intention of screening them from legal punishment.",
+    "section_no": "212",
+    "section_title": "Harbouring offender",
+    "context": "Section 212: Harbouring offender\n\nWhenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment;"
+  },
+  {
+    "question": "What are the consequences if a police officer fails to arrest an accused who has escaped from custody?",
+    "answer": "The police officer will be punished according to Section 225A IPC, which states that 'Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person... omits to apprehend that person or suffers him to escape from confinement, shall be punished.'",
+    "ground_truth": "The police officer will be punished according to Section 225A IPC, which states that 'Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person... omits to apprehend that person or suffers him to escape from confinement, shall be punished.'",
+    "section_no": "225A",
+    "section_title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for",
+    "context": "Section 225A: Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for\n\nWhoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 221, section 222 or section 223, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished:"
+  },
+  {
+    "question": "If my employer's accountant deliberately alters the financial records to show higher profits, will they be punished under Indian law?",
+    "answer": "Yes, this action would be punishable under IPC Section 477A, which states that making or abetting the making of any false entry in a book, electronic record, paper, writing, valuable security, or account with intent to defraud is a criminal offense.",
+    "ground_truth": "Yes, this action would be punishable under IPC Section 477A, which states that making or abetting the making of any false entry in a book, electronic record, paper, writing, valuable security, or account with intent to defraud is a criminal offense.",
+    "section_no": "477A",
+    "section_title": "Falsification of accounts",
+    "context": "Section 477A: Falsification of accounts\n\nWhoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully, and with intent to defraud, destroys, alters, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully, and with intent to defraud, makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in any such book, electronic record, paper, writing, valuable security or account, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+  },
+  {
+    "question": "Is a receipt from a bank acknowledging payment of my loan considered as a valuable security under the law?",
+    "answer": "Yes, according to Section 30 IPC, a document like a bank receipt that acknowledges a legal liability or releases a person from an obligation can be considered a valuable security.",
+    "ground_truth": "Yes, according to Section 30 IPC, a document like a bank receipt that acknowledges a legal liability or releases a person from an obligation can be considered a valuable security.",
+    "section_no": "30",
+    "section_title": "Valuable security",
+    "context": "Section 30: Valuable security\n\nThe words “valuable security” denote a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished or released, or who hereby any person acknowledges that he lies under legal liability, or has not a certain legal right."
+  },
+  {
+    "question": "What happens if I give false testimony during a court case, knowing it's not the truth?",
+    "answer": "You will be punished with imprisonment for up to seven years and also be liable to fine, as per Section 193 IPC.",
+    "ground_truth": "You will be punished with imprisonment for up to seven years and also be liable to fine, as per Section 193 IPC.",
+    "section_no": "193",
+    "section_title": "Punishment for false evidence",
+    "context": "Section 193: Punishment for false evidence\n\nWhoever intentionally gives false evidence in any of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and whoever intentionally gives or fabricates false evidence in any other case, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine."
+  },
+  {
+    "question": "I was mugged at knifepoint, but the thief didn't actually hurt me. Is this considered robbery?",
+    "answer": "Yes, according to Section 390 IPC, since the offender voluntarily caused or attempted to cause fear of instant death or hurt to carry out the theft, it is considered robbery.",
+    "ground_truth": "Yes, according to Section 390 IPC, since the offender voluntarily caused or attempted to cause fear of instant death or hurt to carry out the theft, it is considered robbery.",
+    "section_no": "390",
+    "section_title": "Robbery",
+    "context": "Section 390: Robbery\n\nIn all robbery there is either theft or extortion. When theft is robbery   Theft is “robbery” if, in order to the committing of the theft, or in committing the theft, or in carrying away or attempting to carry away property obtained by the theft, the offender, for that end, voluntarily causes or attempts to cause to any person death or hurt or wrongful restraint, or fear of instant death or of instant hurt, or of instant wrongful restraint. When extortion is robbery   Extortion is “robbery” if the offender, at the time of committing the extortion, is in the presence of the person put in fear, and commits the extortion by putting that person in fear of instant death, of instant hurt, or of instant wrongful restraint to that person or to some other person, and, by so putting in fear, induces the person, so put in fear then and there to deliver up the thing extorted."
+  },
+  {
+    "question": "If I offer a friend some money to keep quiet about a minor offense I committed, is that illegal?",
+    "answer": "Offering or causing any gratification (like money) in consideration of someone screening an offender from legal punishment is illegal, as per Section 214 IPC.",
+    "ground_truth": "Offering or causing any gratification (like money) in consideration of someone screening an offender from legal punishment is illegal, as per Section 214 IPC.",
+    "section_no": "214",
+    "section_title": "Offering gift or restoration of property in consideration of screening offender",
+    "context": "Section 214: Offering gift or restoration of property in consideration of screening offender\n\nWhoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment;"
+  },
+  {
+    "question": "Can I be charged with cheating if I tricked someone into giving me their credit card information, and then used it to make some online purchases?",
+    "answer": "Yes, you could be charged with cheating under Section 420 IPC, as you dishonestly induced the person to deliver a valuable security (the credit card information) to you.",
+    "ground_truth": "Yes, you could be charged with cheating under Section 420 IPC, as you dishonestly induced the person to deliver a valuable security (the credit card information) to you.",
+    "section_no": "420",
+    "section_title": "Cheating and dishonestly inducing delivery of property",
+    "context": "Section 420: Cheating and dishonestly inducing delivery of property\n\nWhoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "I live near a noisy factory that operates 24/7. Is the owner guilty of public nuisance under Indian law?",
+    "answer": "Yes, according to Section 268 IPC, if the noise causes 'any common injury, danger or annoyance' to the people in general who dwell or occupy property in the vicinity, the factory owner can be considered guilty of a public nuisance.",
+    "ground_truth": "Yes, according to Section 268 IPC, if the noise causes 'any common injury, danger or annoyance' to the people in general who dwell or occupy property in the vicinity, the factory owner can be considered guilty of a public nuisance.",
+    "section_no": "268",
+    "section_title": "Public nuisance",
+    "context": "Section 268: Public nuisance\n\nA person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right."
+  },
+  {
+    "question": "I'm trying to understand the meaning of 'burglary' as used in the Code. Does the definition stay the same throughout the entire IPC?",
+    "answer": "According to Section 7 IPC, yes, the expression once explained in any part of this Code is used in every part of this Code in conformity with the Explanation.",
+    "ground_truth": "According to Section 7 IPC, yes, the expression once explained in any part of this Code is used in every part of this Code in conformity with the Explanation.",
+    "section_no": "7",
+    "section_title": "Sense of expression once explained",
+    "context": "Section 7: Sense of expression once explained\n\nEvery expression which is explained in any part of this Code, is used in every part of this Code in conformity with the Explanation."
+  },
+  {
+    "question": "Can I be prosecuted for bribery if the Prevention of Corruption Act, 1988 has repealed this section?",
+    "answer": "No, you cannot be prosecuted under Section 165A IPC since it was repealed by the Prevention of Corruption Act, 1988 (49 of 1988), S. 31.",
+    "ground_truth": "No, you cannot be prosecuted under Section 165A IPC since it was repealed by the Prevention of Corruption Act, 1988 (49 of 1988), S. 31.",
+    "section_no": "165A",
+    "section_title": "Rep. by the Prevention of Corruption Act, 1988",
+    "context": "Section 165A: Rep. by the Prevention of Corruption Act, 1988\n\nRep. by the Prevention of Corruption Act, 1988 (49 of 1988), S. 31."
+  },
+  {
+    "question": "If someone threatens to ruin my reputation if I don't give them money, have they committed criminal intimidation?",
+    "answer": "Yes, according to Section 503 IPC, the person has committed criminal intimidation because they threatened you with injury to your reputation, with intent to cause alarm or force you to do something (give them money) which you are not legally bound to do.",
+    "ground_truth": "Yes, according to Section 503 IPC, the person has committed criminal intimidation because they threatened you with injury to your reputation, with intent to cause alarm or force you to do something (give them money) which you are not legally bound to do.",
+    "section_no": "503",
+    "section_title": "Criminal intimidation",
+    "context": "Section 503: Criminal intimidation\n\nWhoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation."
+  },
+  {
+    "question": "If I throw acid on someone intending to cause permanent damage, what kind of punishment can I expect?",
+    "answer": "You shall be punished with imprisonment for a term which shall not be less than five years but which may extend to seven years and also be liable to fine (Section 326B IPC).",
+    "ground_truth": "You shall be punished with imprisonment for a term which shall not be less than five years but which may extend to seven years and also be liable to fine (Section 326B IPC).",
+    "section_no": "326B",
+    "section_title": "Voluntarily throwing or attempting to throw acid, etc.",
+    "context": "Section 326B: Voluntarily throwing or attempting to throw acid, etc.\n\nWhoever throws or attempts to throw acid1 on any person or attempts to administer acid to any person, or attempts to use any other means, with the intention of causing permanent or partial damage or deformity or bums or maiming or disfigurement or disability or grievous hurt to that person, shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "I'm a domestic helper and I was hired to take care of my elderly neighbor's daily needs, but I've been neglecting my duties. Am I breaking any laws?",
+    "answer": "You may be in breach of Section 491 IPC, which states that whoever omits to attend on or supply the wants of a helpless person is punishable with imprisonment or fine.",
+    "ground_truth": "You may be in breach of Section 491 IPC, which states that whoever omits to attend on or supply the wants of a helpless person is punishable with imprisonment or fine.",
+    "section_no": "491",
+    "section_title": "Breach of contract to attend on and supply wants of helpless persons",
+    "context": "Section 491: Breach of contract to attend on and supply wants of helpless persons\n\nWhoever, being bound by a lawful contract to attend on or to supply the wants of any person who, by reason of youth, or of unsoundness of mind, or of a disease or bodily weakness, is helpless or incapable of providing for his own safety or of supplying his own wants, voluntarily omits so to do, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two hundred rupees, or with both."
+  },
+  {
+    "question": "Can I be arrested if I give shelter to some friends who were hired by a local politician to cause trouble in my neighborhood?",
+    "answer": "You can be punished with imprisonment or fine under Section 157 IPC, as harbouring people knowing they've been hired to join an unlawful assembly is considered an offense.",
+    "ground_truth": "You can be punished with imprisonment or fine under Section 157 IPC, as harbouring people knowing they've been hired to join an unlawful assembly is considered an offense.",
+    "section_no": "157",
+    "section_title": "Harbouring persons hired for an unlawful assembly",
+    "context": "Section 157: Harbouring persons hired for an unlawful assembly\n\nWhoever harbours, receives or assembles, in any house or premises in his occupation or charge, or under his control any persons knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+  },
+  {
+    "question": "If I know that my neighbor's claim of harassment against me is false, can I be punished if I report it to the police anyway?",
+    "answer": "No, you will not be punished for reporting the claim. According to Section 209 IPC, only making a false claim in court is punishable, and reporting the claim to the police does not constitute making a claim in court.",
+    "ground_truth": "No, you will not be punished for reporting the claim. According to Section 209 IPC, only making a false claim in court is punishable, and reporting the claim to the police does not constitute making a claim in court.",
+    "section_no": "209",
+    "section_title": "Dishonesty making false claim in Court",
+    "context": "Section 209: Dishonesty making false claim in Court\n\nWhoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court of Justice any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine."
+  },
+  {
+    "question": "I accidentally hit someone with a knife while trying to stop an argument. I didn't mean to hurt them, but they got injured. Can I be charged under the Indian Penal Code?",
+    "answer": "You may be charged under Section 324 IPC if the injury caused was not accidental and you intentionally used the knife as a weapon of offence, even if it wasn't your intention to cause serious harm.",
+    "ground_truth": "You may be charged under Section 324 IPC if the injury caused was not accidental and you intentionally used the knife as a weapon of offence, even if it wasn't your intention to cause serious harm.",
+    "section_no": "324",
+    "section_title": "Voluntarily causing hurt by dangerous weapons or means",
+    "context": "Section 324: Voluntarily causing hurt by dangerous weapons or means\n\nWhoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+  },
+  {
+    "question": "What are the consequences if I make trouble-causing statements in a temple during a religious ceremony?",
+    "answer": "You will be punished with imprisonment which may extend to five years and shall also be liable to fine, as per Section 505 IPC.",
+    "ground_truth": "You will be punished with imprisonment which may extend to five years and shall also be liable to fine, as per Section 505 IPC.",
+    "section_no": "505",
+    "section_title": "Statements conducing public mischief",
+    "context": "Section 505: Statements conducing public mischief\n\nWhoever commits an offence specified in sub-section (2) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine."
+  },
+  {
+    "question": "I was attacked by a person who had previously committed robbery. Can I use self-defence to cause their death if they continue attacking me?",
+    "answer": "Yes, according to Section 100 IPC, you have the right of private defence of the body that extends to causing death if the offence which occasions the exercise of the right is an act of robbery, as specified in Rule 1 of this section.",
+    "ground_truth": "Yes, according to Section 100 IPC, you have the right of private defence of the body that extends to causing death if the offence which occasions the exercise of the right is an act of robbery, as specified in Rule 1 of this section.",
+    "section_no": "100",
+    "section_title": "When the right of private defence of the body extends to causing death",
+    "context": "Section 100: When the right of private defence of the body extends to causing death\n\nThe right of private defence of the body extends, under the restrictions mentioned in the last preceding section, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:"
+  },
+  {
+    "question": "If someone takes my 10-year-old son away from me without my consent, will they be punished under the Indian law?",
+    "answer": "Yes, according to Section 363 IPC, kidnapping anyone, including a minor, from lawful guardianship is punishable with imprisonment for up to seven years and also liable to fine.",
+    "ground_truth": "Yes, according to Section 363 IPC, kidnapping anyone, including a minor, from lawful guardianship is punishable with imprisonment for up to seven years and also liable to fine.",
+    "section_no": "363",
+    "section_title": "Punishment for kidnapping",
+    "context": "Section 363: Punishment for kidnapping\n\nWhoever kidnaps any person from India or from lawful guardianship, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "I'm trying to defend my house from an intruder, but I think he might just be looking for directions. When can I start using force against him?",
+    "answer": "According to Section 105 IPC, you can commence the right of private defence of property when a reasonable apprehension of danger to your property commences. In this case, since you're unsure if the intruder poses a threat, you should wait until he takes an action that puts your house or belongings in jeopardy before using force.",
+    "ground_truth": "According to Section 105 IPC, you can commence the right of private defence of property when a reasonable apprehension of danger to your property commences. In this case, since you're unsure if the intruder poses a threat, you should wait until he takes an action that puts your house or belongings in jeopardy before using force.",
+    "section_no": "105",
+    "section_title": "Commencement and continuance of the right of private defence of property",
+    "context": "Section 105: Commencement and continuance of the right of private defence of property\n\nThe right of private defence of property commences when a reasonable apprehension of danger to the property commences."
+  },
+  {
+    "question": "If I keep someone in confinement knowing that a writ for their liberation has been issued, can I be punished even if the person is not harmed physically?",
+    "answer": "Yes, according to Section 345 IPC, you can be punished with imprisonment of either description for a term which may extend to two years, even if the person is not physically harmed, as long as you knew that a writ for their liberation has been issued.",
+    "ground_truth": "Yes, according to Section 345 IPC, you can be punished with imprisonment of either description for a term which may extend to two years, even if the person is not physically harmed, as long as you knew that a writ for their liberation has been issued.",
+    "section_no": "345",
+    "section_title": "Wrongful confinement of person for whose liberation writ has been issued",
+    "context": "Section 345: Wrongful confinement of person for whose liberation writ has been issued\n\nWhoever keeps any person in wrongful confinement, knowing that a writ for the liberation of that person has been duly issued, shall be punished with imprisonment of either description for a term which may extend to two years in addition to any term of imprisonment to which he may be liable under any other section of this Chapter."
+  },
+  {
+    "question": "If someone beats me up to get me to confess to something I didn't do, can they be punished?",
+    "answer": "Yes, according to Section 330 IPC, voluntarily causing hurt to extort a confession is punishable with imprisonment of either description for a term which may extend to seven years and shall also be liable to fine.",
+    "ground_truth": "Yes, according to Section 330 IPC, voluntarily causing hurt to extort a confession is punishable with imprisonment of either description for a term which may extend to seven years and shall also be liable to fine.",
+    "section_no": "330",
+    "section_title": "Voluntarily causing hurt to extort confession or to compel restoration of property",
+    "context": "Section 330: Voluntarily causing hurt to extort confession or to compel restoration of property\n\nWhoever voluntarily causes hurt, for the purpose of extorting from the sufferer or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the sufferer or any person interested in the sufferer to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "Is it illegal to knowingly reproduce the process of printing government revenue stamps even if I don't actually create fake stamps?",
+    "answer": "According to Section 255 IPC, yes, reproducing the process of counterfeiting government revenue stamps without actually creating fake stamps is punishable. This can result in imprisonment for life or up to 10 years, and a fine.",
+    "ground_truth": "According to Section 255 IPC, yes, reproducing the process of counterfeiting government revenue stamps without actually creating fake stamps is punishable. This can result in imprisonment for life or up to 10 years, and a fine.",
+    "section_no": "255",
+    "section_title": "Counterfeiting Government stamp",
+    "context": "Section 255: Counterfeiting Government stamp\n\nWhoever counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp issued by Government for the purpose of revenue shall be punished with imprisonment for life or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "Is a pet parrot considered an animal under Indian law, even though it's not a typical farm animal or livestock?",
+    "answer": "Yes, according to Section 47 IPC, any living creature other than a human being is considered an animal. This includes pets like parrots.",
+    "ground_truth": "Yes, according to Section 47 IPC, any living creature other than a human being is considered an animal. This includes pets like parrots.",
+    "section_no": "47",
+    "section_title": "Animal",
+    "context": "Section 47: Animal\n\nThe word “animal” denotes any living creature, other than a human being."
+  },
+  {
+    "question": "If I intentionally block a public road with a large container to protest against the government, will I be punished under IPC Section 431?",
+    "answer": "Yes, you would likely be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both, according to Section 431 IPC.",
+    "ground_truth": "Yes, you would likely be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both, according to Section 431 IPC.",
+    "section_no": "431",
+    "section_title": "Mischief by injury to public road, bridge, river or channel",
+    "context": "Section 431: Mischief by injury to public road, bridge, river or channel\n\nWhoever commits mischief by doing any act which renders or which he knows to be likely to render any public road, bridge, navigable river or navigable channel, natural or artificial, impassable or less safe for travelling or conveying property, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both."
+  },
+  {
+    "question": "If I'm a police officer and I decide to let an imprisoned terrorist escape from custody, what's the maximum sentence I could face?",
+    "answer": "You would be punished with imprisonment for life or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, as per Section 128 IPC.",
+    "ground_truth": "You would be punished with imprisonment for life or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, as per Section 128 IPC.",
+    "section_no": "128",
+    "section_title": "Public servant voluntarily allowing prisoner of state or war to escape",
+    "context": "Section 128: Public servant voluntarily allowing prisoner of state or war to escape\n\nWhoever, being a public servant and having the custody of any State prisoner or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "If someone takes my 14-year-old son away without my consent, can I consider it kidnapping?",
+    "answer": "Yes, you can consider this as kidnapping under Section 361 IPC, as the person took your minor son (under 16 years of age) out of your keeping without your consent.",
+    "ground_truth": "Yes, you can consider this as kidnapping under Section 361 IPC, as the person took your minor son (under 16 years of age) out of your keeping without your consent.",
+    "section_no": "361",
+    "section_title": "Kidnapping from lawful guardianship",
+    "context": "Section 361: Kidnapping from lawful guardianship\n\nWhoever takes or entices any minor under sixteen years of age if a male, or under eighteen years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship."
+  },
+  {
+    "question": "If someone intoxicates me without my knowledge or consent, can I still be punished for an offense that I would have committed if I were sober?",
+    "answer": "According to Section 86 IPC, no, you cannot be punished as the thing that intoxicated you was administered to you without your knowledge or against your will.",
+    "ground_truth": "According to Section 86 IPC, no, you cannot be punished as the thing that intoxicated you was administered to you without your knowledge or against your will.",
+    "section_no": "86",
+    "section_title": "Offence requiring a particular intent or knowledge committed by one who is intoxicated",
+    "context": "Section 86: Offence requiring a particular intent or knowledge committed by one who is intoxicated\n\nIn cases where an act done is not an offence unless done with a particular knowledge or intent, a person who does the act in a state of intoxication shall be liable to be dealt with as if he had the same knowledge as he would have had if he had not been intoxicated, unless the thing which intoxicated him was administered to him without his knowledge or against his will."
+  },
+  {
+    "question": "If I accidentally spill some pesticide in my farm field, but no one has gotten hurt yet, can I be prosecuted under this law?",
+    "answer": "No, you cannot be prosecuted under IPC Section 284 as long as no human life is endangered or likely to be caused by the poisonous substance. According to Section 284, punishment is only imposed if the conduct 'endangers human life' or is 'likely to cause hurt or injury' (IPC, Section 284).",
+    "ground_truth": "No, you cannot be prosecuted under IPC Section 284 as long as no human life is endangered or likely to be caused by the poisonous substance. According to Section 284, punishment is only imposed if the conduct 'endangers human life' or is 'likely to cause hurt or injury' (IPC, Section 284).",
+    "section_no": "284",
+    "section_title": "Negligent conduct with respect to poisonous substance",
+    "context": "Section 284: Negligent conduct with respect to poisonous substance\n\nWhoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any person, or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against probable danger to human life from such poisonous substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+  },
+  {
+    "question": "If I confine someone and ask them to confess to a crime or return stolen property, can I be punished for it?",
+    "answer": "Yes, under Section 348 IPC, you will be punished with imprisonment up to three years and liable to fine.",
+    "ground_truth": "Yes, under Section 348 IPC, you will be punished with imprisonment up to three years and liable to fine.",
+    "section_no": "348",
+    "section_title": "Wrongful confinement to extort confession, or compel restoration of property",
+    "context": "Section 348: Wrongful confinement to extort confession, or compel restoration of property\n\nWhoever wrongfully confines any person for the purpose of extorting from the person confined or any person interested in the person confined any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the person confined or any person interested in the person confined to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine."
+  },
+  {
+    "question": "Can I be punished for reckless driving if my car skidded and almost hit a pedestrian, but nobody got hurt?",
+    "answer": "Yes, according to Section 279 IPC, you can be punished for rash driving or riding on a public way that endangers human life or is likely to cause hurt or injury, even if no one was actually injured.",
+    "ground_truth": "Yes, according to Section 279 IPC, you can be punished for rash driving or riding on a public way that endangers human life or is likely to cause hurt or injury, even if no one was actually injured.",
+    "section_no": "279",
+    "section_title": "Rash driving or riding on a public way",
+    "context": "Section 279: Rash driving or riding on a public way\n\nWhoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+  },
+  {
+    "question": "If someone tries to steal my bike and I defend myself, but in the process accidentally hit the thief with my fist, would that be considered 'harm other than death'?",
+    "answer": "According to Section 104 IPC, yes, causing harm other than death would be allowed as a means of private defence against theft.",
+    "ground_truth": "According to Section 104 IPC, yes, causing harm other than death would be allowed as a means of private defence against theft.",
+    "section_no": "104",
+    "section_title": "When such right to causing any harm other than death",
+    "context": "Section 104: When such right to causing any harm other than death\n\nIf the offence, the committing of which, or the attempting to commit which occasions the exercise of the right of private defence, be theft, mischief, or criminal trespass, not of any of the descriptions enumerated in the last preceding section, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions mentioned in section 99, to the voluntary causing to the wrong-doer of any harm other than death."
+  },
+  {
+    "question": "If I accidentally hit someone with my car while driving recklessly, will I be punished under the IPC if the person suffers grievous hurt?",
+    "answer": "Yes, you may be punished under Section 338 IPC, as causing grievous hurt by doing an act so rashly or negligently as to endanger human life or personal safety of others is punishable.",
+    "ground_truth": "Yes, you may be punished under Section 338 IPC, as causing grievous hurt by doing an act so rashly or negligently as to endanger human life or personal safety of others is punishable.",
+    "section_no": "338",
+    "section_title": "Causing grievous hurt by act endangering life or personal safety of others",
+    "context": "Section 338: Causing grievous hurt by act endangering life or personal safety of others\n\nWhoever causes grievous hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine which may extend to one thousand rupees, or with both."
+  },
+  {
+    "question": "My friend helped me steal my neighbor's bike, but I was the one who actually took it. Can both of us be charged with theft?",
+    "answer": "Yes, according to Section 38 IPC, since you were 'engaged or concerned in the commission of a criminal act' (stealing the bike), and your friend was also involved, you can both be guilty of different offences by means of that act.",
+    "ground_truth": "Yes, according to Section 38 IPC, since you were 'engaged or concerned in the commission of a criminal act' (stealing the bike), and your friend was also involved, you can both be guilty of different offences by means of that act.",
+    "section_no": "38",
+    "section_title": "Persons concerned in criminal Act may be guilty of different offences",
+    "context": "Section 38: Persons concerned in criminal Act may be guilty of different offences\n\nWhere several persons are engaged or concerned in the commission of a criminal act, they may be guilty of different offences by means of that act."
+  },
+  {
+    "question": "My maid has been taking care of my household items for years. Does that mean I still have possession of those items under the law, even though they are physically in her hands?",
+    "answer": "Yes, as per Section 27 IPC, since your maid is taking care of your property on your account, it means you still have possession of those items.",
+    "ground_truth": "Yes, as per Section 27 IPC, since your maid is taking care of your property on your account, it means you still have possession of those items.",
+    "section_no": "27",
+    "section_title": "Property in possession of wife, clerk or servant",
+    "context": "Section 27: Property in possession of wife, clerk or servant\n\nWhen property is in the possession of a person’s wife, clerk or servant, on account of that person, it is in that person’s possession within the meaning of this Code."
+  },
+  {
+    "question": "If a woman secretly disposes of her stillborn baby's body without anyone knowing about the birth, is she punishable under law?",
+    "answer": "According to Section 318 IPC, yes, she would be punished with imprisonment for up to two years, or fine, or both.",
+    "ground_truth": "According to Section 318 IPC, yes, she would be punished with imprisonment for up to two years, or fine, or both.",
+    "section_no": "318",
+    "section_title": "Concealment of birth by secret disposal of dead body",
+    "context": "Section 318: Concealment of birth by secret disposal of dead body\n\nWhoever, by secretly burying or otherwise disposing of the dead body of a child whether such child die before or after or during its birth, intentionally conceals or endeavours to conceal the birth of such child, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+  },
+  {
+    "question": "Is it illegal to make a plan with my friends to protest peacefully against the government, even if we're not breaking any laws?",
+    "answer": "No, according to Section 120A IPC, as long as your agreement does not involve an illegal act or means, it would not be considered criminal conspiracy. Since protesting peacefully is legal, your planning and execution of such a protest would not constitute a criminal conspiracy.",
+    "ground_truth": "No, according to Section 120A IPC, as long as your agreement does not involve an illegal act or means, it would not be considered criminal conspiracy. Since protesting peacefully is legal, your planning and execution of such a protest would not constitute a criminal conspiracy.",
+    "section_no": "120A",
+    "section_title": "Definition of criminal conspiracy",
+    "context": "Section 120A: Definition of criminal conspiracy\n\nWhen two or more persons agree to do, or cause to be done:\nan illegal act, or\nan act which is not illegal by illegal means, such an agreement is designated a criminal conspiracy;\nProvided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof."
+  },
+  {
+    "question": "Can I be punished if I persuade my friend's 17-year-old daughter to go out with someone else, knowing that it will likely lead to an intimate relationship?",
+    "answer": "No, you cannot be punished as per Section 366A IPC, since the age of consent is not specified and the girl is above 18 years old.",
+    "ground_truth": "No, you cannot be punished as per Section 366A IPC, since the age of consent is not specified and the girl is above 18 years old.",
+    "section_no": "366A",
+    "section_title": "Procuration of minor girl",
+    "context": "Section 366A: Procuration of minor girl\n\nWhoever, by any means whatsoever, induces any minor girl under the age of eighteen years to go from any place or to do any act with intent that such girl may be, or knowing that it is likely that she will be, forced or seduced to illicit intercourse with another person shall be punishable with imprisonment which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "If multiple people are part of an unlawful gathering that ends in violence, do all the participants commit the same crime even if not everyone physically participated in the violence?",
+    "answer": "Yes, according to Section 149 IPC, every person who is a member of the same assembly at the time of committing the offence is guilty of that offence, even if they did not directly participate in the violence.",
+    "ground_truth": "Yes, according to Section 149 IPC, every person who is a member of the same assembly at the time of committing the offence is guilty of that offence, even if they did not directly participate in the violence.",
+    "section_no": "149",
+    "section_title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+    "context": "Section 149: Every member of unlawful assembly guilty of offence committed in prosecution of common object\n\nIf an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence."
+  },
+  {
+    "question": "If I fail to file my income tax return on time, will I be considered 'legally bound to do' something? What does the law say?",
+    "answer": "According to Section 43 IPC, yes, you would be considered 'legally bound to do' what is illegal in you to omit. Failing to file your income tax return on time is an omission that furnishes ground for a civil action and thus falls under the ambit of this section.",
+    "ground_truth": "According to Section 43 IPC, yes, you would be considered 'legally bound to do' what is illegal in you to omit. Failing to file your income tax return on time is an omission that furnishes ground for a civil action and thus falls under the ambit of this section.",
+    "section_no": "43",
+    "section_title": "Illegal .  Legally bound to do",
+    "context": "Section 43: Illegal .  Legally bound to do\n\nThe word “illegal” is applicable to everything which is an offence or which is prohibited by law, or which furnishes ground for a civil action; and a person is said to be “legally bound to do” whatever it is illegal in him to omit."
+  },
+  {
+    "question": "If someone attempts to commit robbery with a gun, will they get more than 7 years in prison?",
+    "answer": "Yes, according to Section 398 IPC, if at the time of attempting to commit robbery or dacoity, the offender is armed with any deadly weapon, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+    "ground_truth": "Yes, according to Section 398 IPC, if at the time of attempting to commit robbery or dacoity, the offender is armed with any deadly weapon, the imprisonment with which such offender shall be punished shall not be less than seven years.",
+    "section_no": "398",
+    "section_title": "Attempt to commit robbery or dacoity when armed with deadly weapon",
+    "context": "Section 398: Attempt to commit robbery or dacoity when armed with deadly weapon\n\nIf, at the time of attempting to commit robbery or dacoity, the offender is armed with any deadly weapon, the imprisonment with which such offender shall be punished shall not be less than seven years."
+  },
+  {
+    "question": "If someone in the United States conspires to overthrow the Indian government through terrorist attacks, can they be punished under this law?",
+    "answer": "Yes, according to Section 121A IPC, anyone who conspires to commit any of the offences punishable by section 121, including conspiring to overawe the Central Government or any State Government, shall be punished with imprisonment for life, or with imprisonment of either description which may extend to ten years, and shall also be liable to fine.",
+    "ground_truth": "Yes, according to Section 121A IPC, anyone who conspires to commit any of the offences punishable by section 121, including conspiring to overawe the Central Government or any State Government, shall be punished with imprisonment for life, or with imprisonment of either description which may extend to ten years, and shall also be liable to fine.",
+    "section_no": "121A",
+    "section_title": "Conspiracy to commit offences punishable by section 121",
+    "context": "Section 121A: Conspiracy to commit offences punishable by section 121\n\nWhoever within or without India conspires to commit any of the offences punishable by section 121, or conspires to overawe, by means of criminal force or the show of criminal force, the Central Government or any State Government, shall be punished with imprisonment for life, or with imprisonment of either description which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "If I know that my father passed away recently and someone has taken his property, and I haven't given it to anyone else or transferred ownership, can I be punished if I use that property for myself?",
+    "answer": "Yes, you could be punished under Section 404 IPC because you are misappropriating your father's property knowing he died with no one legally entitled to possess it.",
+    "ground_truth": "Yes, you could be punished under Section 404 IPC because you are misappropriating your father's property knowing he died with no one legally entitled to possess it.",
+    "section_no": "404",
+    "section_title": "Dishonest misappropriation of property possessed by deceased person at the time of his death",
+    "context": "Section 404: Dishonest misappropriation of property possessed by deceased person at the time of his death\n\nWhoever dishonestly misappropriates or converts to his own use property, knowing that such property was in the possession of a deceased person at the time of that person’s decease, and has not since been in the possession of any person legally entitled to such possession, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine, and if the offender at the time of such person’s decease was employed by him as a clerk or servant, the imprisonment may extend to seven years."
+  },
+  {
+    "question": "What are the punishments that an offender can be liable for under the Indian Penal Code?",
+    "answer": "The punishments to which offenders are liable under the provisions of this Code are as per the rules specified in Section 53 IPC.",
+    "ground_truth": "The punishments to which offenders are liable under the provisions of this Code are as per the rules specified in Section 53 IPC.",
+    "section_no": "53",
+    "section_title": "Punishments",
+    "context": "Section 53: Punishments\n\nThe punishments to which offenders are liable under the provisions of this Code are"
+  },
+  {
+    "question": "If a government officer tries to sell my property, and I physically block the way to prevent the sale, can I be punished?",
+    "answer": "Yes, you could be punished according to Section 184 IPC, which states that intentionally obstructing any sale of property offered for sale by a public servant is punishable with imprisonment or fine.",
+    "ground_truth": "Yes, you could be punished according to Section 184 IPC, which states that intentionally obstructing any sale of property offered for sale by a public servant is punishable with imprisonment or fine.",
+    "section_no": "184",
+    "section_title": "Obstructing sale of property offered for sale by authority of public servant",
+    "context": "Section 184: Obstructing sale of property offered for sale by authority of public servant\n\nWhoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant, as such, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both."
+  },
+  {
+    "question": "If someone keeps threatening to harm me and my family unless I give them money, can the police charge them with criminal intimidation?",
+    "answer": "Yes, according to Section 506 of the Indian Penal Code, committing criminal intimidation is punishable by imprisonment up to two years, fine, or both.",
+    "ground_truth": "Yes, according to Section 506 of the Indian Penal Code, committing criminal intimidation is punishable by imprisonment up to two years, fine, or both.",
+    "section_no": "506",
+    "section_title": "Punishment for criminal intimidation",
+    "context": "Section 506: Punishment for criminal intimidation\n\nWhoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both;"
+  },
+  {
+    "question": "My friend was arrested by the police officer who knows that the arrest is illegal. Can I hold him accountable for this act?",
+    "answer": "Yes, you can hold the police officer accountable as he has committed an offence under Section 220 IPC, which states that a person having authority to commit persons for trial or confinement shall be punished if they know they are acting contrary to law.",
+    "ground_truth": "Yes, you can hold the police officer accountable as he has committed an offence under Section 220 IPC, which states that a person having authority to commit persons for trial or confinement shall be punished if they know they are acting contrary to law.",
+    "section_no": "220",
+    "section_title": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law",
+    "context": "Section 220: Commitment for trial or confinement by person having authority who knows that he is acting contrary to law\n\nWhoever, being in any office which gives him legal authority to commit persons for trial or to confinement, or to keep persons in confinement, corruptly or maliciously commits any person for trial or to confinement, or keeps any person in confinement, in the exercise of that authority, knowing that in so doing he is acting contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both."
+  },
+  {
+    "question": "My friend's mentally unstable sibling, who is under 18 years old, has been threatening to commit suicide. If I encourage them to go ahead with it, can I be charged with abetment of suicide?",
+    "answer": "Yes, according to Section 305 IPC, if the person commits suicide and you abet the commission of such suicide, you will be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine.",
+    "ground_truth": "Yes, according to Section 305 IPC, if the person commits suicide and you abet the commission of such suicide, you will be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine.",
+    "section_no": "305",
+    "section_title": "Abetment of suicide of child or insane person",
+    "context": "Section 305: Abetment of suicide of child or insane person\n\nIf any person under eighteen years of age, any insane person, any delirious person, any idiot, or any person in a state of intoxication commits suicide, whoever abets the commission of such suicide, shall be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "If I threaten to accuse someone of a murder charge unless they hand over money, will I be charged with extortion?",
+    "answer": "Yes, you would be committing extortion as per Section 388 IPC, which states that putting someone in fear of an accusation against them or another person of having committed or attempted to commit an offence punishable with imprisonment for life, etc., is an act of extortion.",
+    "ground_truth": "Yes, you would be committing extortion as per Section 388 IPC, which states that putting someone in fear of an accusation against them or another person of having committed or attempted to commit an offence punishable with imprisonment for life, etc., is an act of extortion.",
+    "section_no": "388",
+    "section_title": "Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc",
+    "context": "Section 388: Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc\n\nWhoever commits extortion by putting any person in fear of an accusation against that person or any other, of having committed or attempted to commit any offence punishable with death, or with imprisonment for life, or with imprisonment for a term which may extend to ten years, or of having attempted to induce any other person to commit such offence, shall  be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine;"
+  },
+  {
+    "question": "What are the possible punishments if I fail to provide information to a public servant when legally required, and what is the maximum fine I could face?",
+    "answer": "You could be punished with simple imprisonment for up to one month, or with a fine of up to 500 rupees, or with both, as per Section 176 IPC.",
+    "ground_truth": "You could be punished with simple imprisonment for up to one month, or with a fine of up to 500 rupees, or with both, as per Section 176 IPC.",
+    "section_no": "176",
+    "section_title": "Omission to give notice or information to public servant by person legally bound to give it",
+    "context": "Section 176: Omission to give notice or information to public servant by person legally bound to give it\n\nWhoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both;"
+  },
+  {
+    "question": "Can I be held responsible for giving my minor niece some medicine that her doctor recommended, even if it accidentally causes her to faint?",
+    "answer": "No, you cannot be held responsible according to Section 89 IPC, as the act was done in good faith and with the consent of the guardian (yourself) for the benefit of a person under twelve years of age.",
+    "ground_truth": "No, you cannot be held responsible according to Section 89 IPC, as the act was done in good faith and with the consent of the guardian (yourself) for the benefit of a person under twelve years of age.",
+    "section_no": "89",
+    "section_title": "Act done in good faith for benefit of child or insane person, by or by consent of guardian",
+    "context": "Section 89: Act done in good faith for benefit of child or insane person, by or by consent of guardian\n\nNothing which is done in good faith for the benefit of a person under twelve years of age, or of unsound mind, by or by consent, either express or implied, of the guardian or other person having lawful charge of that person, is an offence by reason of any harm which it may cause, or be intended by the doer to cause or be known by the doer to be likely to cause to that person; Provided:"
+  },
+  {
+    "question": "If I'm summoned by the police for an investigation and refuse to answer their questions about my whereabouts at the time of a crime, can I be arrested and punished?",
+    "answer": "Yes, you could be punished with simple imprisonment for up to six months or fined up to one thousand rupees, or both (Section 179 IPC).",
+    "ground_truth": "Yes, you could be punished with simple imprisonment for up to six months or fined up to one thousand rupees, or both (Section 179 IPC).",
+    "section_no": "179",
+    "section_title": "Refusing to answer public servant authorized to question",
+    "context": "Section 179: Refusing to answer public servant authorized to question\n\nWhoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+  },
+  {
+    "question": "If I abscond to avoid being served with a summons from a police officer, what is the maximum punishment I can face?",
+    "answer": "According to Section 172 IPC, you can be punished with simple imprisonment for up to one month or with fine of up to five hundred rupees, or both.",
+    "ground_truth": "According to Section 172 IPC, you can be punished with simple imprisonment for up to one month or with fine of up to five hundred rupees, or both.",
+    "section_no": "172",
+    "section_title": "Absconding to avoid service of summons or other proceeding",
+    "context": "Section 172: Absconding to avoid service of summons or other proceeding\n\nWhoever absconds in order to avoid being served with a summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; or, if the summons or notice or order is to attend in person or by agent, or to produce a document or electronic record in a Court of Justice, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both."
+  },
+  {
+    "question": "If I abet someone to commit theft, but the person also commits another crime like assault while doing so, can I be punished separately for each of these crimes?",
+    "answer": "Yes, according to Section 112 IPC, you are liable to punishment for both the act of abetting and the distinct offence of assault, as they constitute separate offences.",
+    "ground_truth": "Yes, according to Section 112 IPC, you are liable to punishment for both the act of abetting and the distinct offence of assault, as they constitute separate offences.",
+    "section_no": "112",
+    "section_title": "Abettor when liable to cumulative punishment for act abetted and for act done",
+    "context": "Section 112: Abettor when liable to cumulative punishment for act abetted and for act done\n\nIf the act for which the abettor is liable under the last preceding section is committed in addition to the act abetted, and constitute a distinct offence, the abettor is liable to punishment for each of the offences."
+  },
+  {
+    "question": "If I hit someone in self-defense, can I still be punished under Section 323 for voluntarily causing hurt?",
+    "answer": "No, you would not be punished under Section 323 IPC as the section only applies to voluntary causing of hurt, and self-defense is an exception. This is governed by different sections, such as Section 76 IPC.",
+    "ground_truth": "No, you would not be punished under Section 323 IPC as the section only applies to voluntary causing of hurt, and self-defense is an exception. This is governed by different sections, such as Section 76 IPC.",
+    "section_no": "323",
+    "section_title": "Punishment for voluntarily causing hurt",
+    "context": "Section 323: Punishment for voluntarily causing hurt\n\nWhoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both."
+  },
+  {
+    "question": "If I'm the captain of a merchant vessel, but I was unaware that a deserter from the Indian Army was hiding on board, can I be penalized? Shouldn't my lack of knowledge protect me from any consequences?",
+    "answer": "According to Section 137 IPC, you would be liable for a penalty not exceeding five hundred rupees if it is proven that you might have known about the concealment but for some neglect of your duty as captain or want of discipline on board the vessel.",
+    "ground_truth": "According to Section 137 IPC, you would be liable for a penalty not exceeding five hundred rupees if it is proven that you might have known about the concealment but for some neglect of your duty as captain or want of discipline on board the vessel.",
+    "section_no": "137",
+    "section_title": "Deserter concealed on board merchant vessel through negligence of master",
+    "context": "Section 137: Deserter concealed on board merchant vessel through negligence of master\n\nThe master or person in charge of a merchant vessel, on board of which any deserter from the Army, Navy or Air Force of the Government of India is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding five hundred rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel."
+  },
+  {
+    "question": "Can I be held responsible for causing hurt to someone if I was driving recklessly and didn't notice the pedestrian in my path, resulting in an accident?",
+    "answer": "Yes, you can be punished under Section 337 IPC, as it is punishable with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both.",
+    "ground_truth": "Yes, you can be punished under Section 337 IPC, as it is punishable with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both.",
+    "section_no": "337",
+    "section_title": "Causing hurt by act endangering life or personal safety of others",
+    "context": "Section 337: Causing hurt by act endangering life or personal safety of others\n\nWhoever causes hurt to any person by doing any act so rashly or negligently as to endanger human life, or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five hundred rupees, or with both."
+  },
+  {
+    "question": "What is the punishment for damaging someone's property after making preparations that could cause harm to them or others?",
+    "answer": "According to Section 440 IPC, the punishment for committing mischief after preparing to cause death, hurt, wrongful restraint, fear of death, hurt, or wrongful restraint is imprisonment for up to five years and a fine.",
+    "ground_truth": "According to Section 440 IPC, the punishment for committing mischief after preparing to cause death, hurt, wrongful restraint, fear of death, hurt, or wrongful restraint is imprisonment for up to five years and a fine.",
+    "section_no": "440",
+    "section_title": "Mischief committed after preparation made for causing death or hurt",
+    "context": "Section 440: Mischief committed after preparation made for causing death or hurt\n\nWhoever commits mischief, having made preparation for causing to any person death, or hurt, or wrongful restraint, or fear of death, or hurt, or of wrongful restraint, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine."
+  },
+  {
+    "question": "If someone beats me up to force me to pay them money, will that be considered a criminal offense?",
+    "answer": "Yes, according to Section 327 IPC, voluntarily causing hurt with the purpose of extorting property from you or constraining you to do something illegal is punishable by imprisonment for up to 10 years and fine.",
+    "ground_truth": "Yes, according to Section 327 IPC, voluntarily causing hurt with the purpose of extorting property from you or constraining you to do something illegal is punishable by imprisonment for up to 10 years and fine.",
+    "section_no": "327",
+    "section_title": "Voluntarily causing hurt to extort property, or to constrain to an illegal to an act",
+    "context": "Section 327: Voluntarily causing hurt to extort property, or to constrain to an illegal to an act\n\nWhoever voluntarily causes hurt, for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "If someone is caught being a professional thief, will they be punished with imprisonment for life?",
+    "answer": "Yes, according to Section 311 IPC, whoever is a thug shall be punished with imprisonment for life.",
+    "ground_truth": "Yes, according to Section 311 IPC, whoever is a thug shall be punished with imprisonment for life.",
+    "section_no": "311",
+    "section_title": "Punishment",
+    "context": "Section 311: Punishment\n\nWhoever is a thug, shall be punished with imprisonment for life, and shall also be liable to fine."
+  },
+  {
+    "question": "If I accidentally knock over a vase while trying to get my phone from the shelf, can it be considered voluntary damage?",
+    "answer": "According to Section 39 IPC, no, since the means you employed (reaching for your phone) were not intended to cause the effect (broken vase), and at the time of employing those means, you didn't know or have reason to believe that they would likely cause it. Therefore, the damage is considered involuntary, as per Section 39.",
+    "ground_truth": "According to Section 39 IPC, no, since the means you employed (reaching for your phone) were not intended to cause the effect (broken vase), and at the time of employing those means, you didn't know or have reason to believe that they would likely cause it. Therefore, the damage is considered involuntary, as per Section 39.",
+    "section_no": "39",
+    "section_title": "Voluntarily",
+    "context": "Section 39: Voluntarily\n\nA person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it."
+  },
+  {
+    "question": "I've been asked to manage a private lottery game at my friend's office. Is it illegal if we don't make any money from it, but just do it for fun?",
+    "answer": "No, it is illegal according to Section 294A IPC, as you are keeping an office or place for the purpose of drawing a non-state-authorised lottery, even if you're not making any profit.",
+    "ground_truth": "No, it is illegal according to Section 294A IPC, as you are keeping an office or place for the purpose of drawing a non-state-authorised lottery, even if you're not making any profit.",
+    "section_no": "294A",
+    "section_title": "Keeping lottery office",
+    "context": "Section 294A: Keeping lottery office\n\nWhoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+  },
+  {
+    "question": "If someone breaks into my house at night to steal valuables, will they be punished for the theft or also for the house-breaking?",
+    "answer": "According to Section 454 IPC, the person will be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine.",
+    "ground_truth": "According to Section 454 IPC, the person will be punished with imprisonment of either description for a term which may extend to three years and shall also be liable to fine.",
+    "section_no": "454",
+    "section_title": "Lurking house-trespass or house-breaking in order to commit offence punishable with imprisonment",
+    "context": "Section 454: Lurking house-trespass or house-breaking in order to commit offence punishable with imprisonment\n\nWhoever commits lurking house-trespass or house-breaking, in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine;"
+  },
+  {
+    "question": "I accidentally sent a friend an email with some confidential information. He got upset because he wasn't supposed to know this, but I didn't mean any harm by it. Is sending the email considered an offence?",
+    "answer": "No, according to Section 93 IPC, since you acted in good faith and the communication was made for your friend's benefit (even if unintentional), it is not considered an offence.",
+    "ground_truth": "No, according to Section 93 IPC, since you acted in good faith and the communication was made for your friend's benefit (even if unintentional), it is not considered an offence.",
+    "section_no": "93",
+    "section_title": "Communication made in good faith",
+    "context": "Section 93: Communication made in good faith\n\nNo communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person."
+  },
+  {
+    "question": "I saw someone selling fake government revenue stamps. Can I report them to the police, or do I need to file a complaint with some other authority?",
+    "answer": "You can report them to the police as it's an offense under Section 258 IPC, which states that whoever sells or offers for sale any stamp known to be a counterfeit of a government revenue stamp shall be punished.",
+    "ground_truth": "You can report them to the police as it's an offense under Section 258 IPC, which states that whoever sells or offers for sale any stamp known to be a counterfeit of a government revenue stamp shall be punished.",
+    "section_no": "258",
+    "section_title": "Sale of counterfeit Government stamp",
+    "context": "Section 258: Sale of counterfeit Government stamp\n\nWhoever sells, or offers for sale, any stamp which he knows or has reason to believe to be a counterfeit of any stamp issued by Government for the purpose of revenue, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "I was involved in a heated argument with my neighbor, during which I raised my fist as if to hit him. He stepped back and asked me not to do anything rash. Did I commit an assault?",
+    "answer": "According to Section 351 IPC, yes, you committed an assault because your gesture (raising your fist) intended or was likely to cause the neighbor to apprehend that you were about to use criminal force against him.",
+    "ground_truth": "According to Section 351 IPC, yes, you committed an assault because your gesture (raising your fist) intended or was likely to cause the neighbor to apprehend that you were about to use criminal force against him.",
+    "section_no": "351",
+    "section_title": "Assault",
+    "context": "Section 351: Assault\n\nWhoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault."
+  },
+  {
+    "question": "If I damage property in Pakistan, which is at peace with India, can I be punished under Indian law?",
+    "answer": "Yes, according to Section 126 IPC, you could be punished with imprisonment for up to seven years and fined, as well as having any property used or intended to be used in committing the depredation forfeited.",
+    "ground_truth": "Yes, according to Section 126 IPC, you could be punished with imprisonment for up to seven years and fined, as well as having any property used or intended to be used in committing the depredation forfeited.",
+    "section_no": "126",
+    "section_title": "Committing depredation on territories of Power at peace with the Government of India",
+    "context": "Section 126: Committing depredation on territories of Power at peace with the Government of India\n\nWhoever commits depredation, or makes preparations to commit depredation, on the territories of any Power in alliance or at peace with the Government of India, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of any property used or intended to be used in committing such depredation, or acquired by such depredation."
+  },
+  {
+    "question": "I recently caught someone trying to break into my neighbor's house, with the intention of stealing some valuables. Can I charge them under this law?",
+    "answer": "Yes, you can charge the person under Section 451 IPC because they committed a house-trespass in order to commit an offence punishable with imprisonment (stealing is a crime that carries imprisonment).",
+    "ground_truth": "Yes, you can charge the person under Section 451 IPC because they committed a house-trespass in order to commit an offence punishable with imprisonment (stealing is a crime that carries imprisonment).",
+    "section_no": "451",
+    "section_title": "House-trespass in order to commit offence punishable with imprisonment",
+    "context": "Section 451: House-trespass in order to commit offence punishable with imprisonment\n\nWhoever commits house-trespass in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine;"
+  },
+  {
+    "question": "If I am arrested for a crime and I resist or try to escape from the police, what kind of punishment can I face?",
+    "answer": "You can be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both, as per Section 224 IPC.",
+    "ground_truth": "You can be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both, as per Section 224 IPC.",
+    "section_no": "224",
+    "section_title": "Resistance or obstruction by a person to his lawful apprehension",
+    "context": "Section 224: Resistance or obstruction by a person to his lawful apprehension\n\nWhoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both."
+  },
+  {
+    "question": "I recently caught someone trying to break into my house at night. They didn't commit any crime while they were in, but I'm concerned about their intentions. Will I be able to press charges?",
+    "answer": "According to Section 457 IPC, yes, you can press charges. As the section states, 'Whoever commits lurking house-trespass by night, or house-breaking by night...shall be punished with imprisonment of either description for a term which may extend to five years...' The fact that they didn't commit any crime while in your house doesn't matter; their attempt to break in is illegal and can be prosecuted.",
+    "ground_truth": "According to Section 457 IPC, yes, you can press charges. As the section states, 'Whoever commits lurking house-trespass by night, or house-breaking by night...shall be punished with imprisonment of either description for a term which may extend to five years...' The fact that they didn't commit any crime while in your house doesn't matter; their attempt to break in is illegal and can be prosecuted.",
+    "section_no": "457",
+    "section_title": "Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment",
+    "context": "Section 457: Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment\n\nWhoever commits lurking house-trespass by night, or house-breaking by night in order to the committing of any offence punishable with imprisonment, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine;"
+  },
+  {
+    "question": "If I am in the Indian Army, can I still be punished under the Indian Penal Code for any crime committed by me?",
+    "answer": "No, according to Section 139 IPC, no person subject to the Army Act is subject to punishment under this Code. As a member of the Indian Army, you would not be liable for punishment under the Indian Penal Code.",
+    "ground_truth": "No, according to Section 139 IPC, no person subject to the Army Act is subject to punishment under this Code. As a member of the Indian Army, you would not be liable for punishment under the Indian Penal Code.",
+    "section_no": "139",
+    "section_title": "Persons subject to certain Acts",
+    "context": "Section 139: Persons subject to certain Acts\n\nNo person subject to the Army Act, the Army Act, 1950 (46 of 1950), the Naval Discipline Act, the Indian Navy (Discipline) Act, 1934 (34 of 1934), the Air Force Act or the Air Force Act, 1950 (45 of 1950), is subject to punishment under this Code for any of the offences defined in this Chapter."
+  },
+  {
+    "question": "If I try to kill someone but they survive, will I be punished for the same crime as if they had died?",
+    "answer": "Yes, under Section 307 IPC, you would be punished with imprisonment of either description for a term which may extend to ten years, and also liable to fine, regardless of whether the victim survives or not.",
+    "ground_truth": "Yes, under Section 307 IPC, you would be punished with imprisonment of either description for a term which may extend to ten years, and also liable to fine, regardless of whether the victim survives or not.",
+    "section_no": "307",
+    "section_title": "Attempt to murder",
+    "context": "Section 307: Attempt to murder\n\nWhoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and, if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned."
+  },
+  {
+    "question": "Can I be charged with using a false property mark if I put a fake brand sticker on my friend's new phone as a prank?",
+    "answer": "No, according to Section 481 of the Indian Penal Code, you cannot be charged for using a false property mark since it was done without intent to deceive and does not falsely attribute ownership. However, this action may still be considered an act of vandalism or trademark infringement.",
+    "ground_truth": "No, according to Section 481 of the Indian Penal Code, you cannot be charged for using a false property mark since it was done without intent to deceive and does not falsely attribute ownership. However, this action may still be considered an act of vandalism or trademark infringement.",
+    "section_no": "481",
+    "section_title": "Using a false property mark",
+    "context": "Section 481: Using a false property mark\n\nWhoever marks any movable property or goods or any case, package or other receptacle containing movable property or goods, or uses any case, package or other receptacle having any mark thereon, in a manner reasonably calculated to cause it to be believed that the property or goods so marked, or any property or goods contained in any such receptacle so marked, belong to a person to whom they do not belong, is said to use a false property mark."
+  },
+  {
+    "question": "Can I be punished if I unknowingly share my cold with someone who has AIDS, even though I don't know their medical history?",
+    "answer": "No, you cannot be punished under Section 269 IPC because the section requires that you 'know or have reason to believe' that your act is likely to spread a disease dangerous to life.",
+    "ground_truth": "No, you cannot be punished under Section 269 IPC because the section requires that you 'know or have reason to believe' that your act is likely to spread a disease dangerous to life.",
+    "section_no": "269",
+    "section_title": "Negligent act likely to spread infection of disease dangerous to life",
+    "context": "Section 269: Negligent act likely to spread infection of disease dangerous to life\n\nWhoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both."
+  },
+  {
+    "question": "If I help organize a rally with more than 20 people to protest against a government policy, can I be punished for abetting an offence?",
+    "answer": "Yes, you may be punished according to Section 117 IPC, as it states that whoever abets the commission of an offence by any number or class of persons exceeding ten shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "ground_truth": "Yes, you may be punished according to Section 117 IPC, as it states that whoever abets the commission of an offence by any number or class of persons exceeding ten shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "section_no": "117",
+    "section_title": "Abetting commission of offence by the public or by more than ten persons",
+    "context": "Section 117: Abetting commission of offence by the public or by more than ten persons\n\nWhoever abets the commission of an offence by the public generally or by any number or class of persons exceeding ten, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both."
+  },
+  {
+    "question": "If I intentionally give my friend a sleeping pill to make him fall asleep, but not with the intention of causing him harm or committing an offence, will I still be punished?",
+    "answer": "No, you will not be punished according to Section 328 IPC, as your intent is not to cause hurt to your friend nor commit an offence.",
+    "ground_truth": "No, you will not be punished according to Section 328 IPC, as your intent is not to cause hurt to your friend nor commit an offence.",
+    "section_no": "328",
+    "section_title": "Causing hurt by means of poison, etc., with intent to commit and offence",
+    "context": "Section 328: Causing hurt by means of poison, etc., with intent to commit and offence\n\nWhoever administers to or causes to be taken by any person any poison or any stupefying, intoxicating or unwholesome drug, or other thing with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "What are the consequences if I, as the administrator of a private hospital, fail to provide proper treatment to a patient despite knowing that they are in need of medical attention?",
+    "answer": "According to Section 166B IPC, you can be punished with imprisonment for up to one year, or fined, or both.",
+    "ground_truth": "According to Section 166B IPC, you can be punished with imprisonment for up to one year, or fined, or both.",
+    "section_no": "166B",
+    "section_title": "Punishment for non treatment of victim",
+    "context": "Section 166B: Punishment for non treatment of victim\n\nWhoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section1 357C of the Code of Criminal Procedure, 1973, shall be punished with imprisonment for a term which may extend to one year or with fine or with both."
+  },
+  {
+    "question": "If I'm caught committing robbery during the evening hours, can I expect a longer prison sentence compared to if it were done in the daytime?",
+    "answer": "Yes, according to Section 392 IPC, if the robbery is committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "ground_truth": "Yes, according to Section 392 IPC, if the robbery is committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years.",
+    "section_no": "392",
+    "section_title": "Punishment for robbery",
+    "context": "Section 392: Punishment for robbery\n\nWhoever commits robbery shall be punished with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine; and, if the robbery be committed on the highway between sunset and sunrise, the imprisonment may be extended to fourteen years."
+  },
+  {
+    "question": "If someone I know has been taken away by some unknown people without my consent, but they say they will release them soon if I do certain things for them. Is this kidnapping?",
+    "answer": "No, according to Section 365 IPC, the intention of secretly and wrongfully confining the person is essential for an act to be considered kidnapping. If the abductors claim they will release the person soon after doing what you're asked, it may not meet the criteria for 'intent to cause that person to be secretly and wrongfully confined', as stated in Section 365 IPC.",
+    "ground_truth": "No, according to Section 365 IPC, the intention of secretly and wrongfully confining the person is essential for an act to be considered kidnapping. If the abductors claim they will release the person soon after doing what you're asked, it may not meet the criteria for 'intent to cause that person to be secretly and wrongfully confined', as stated in Section 365 IPC.",
+    "section_no": "365",
+    "section_title": "Kidnapping or abducting with intent secretly and wrongfully to confine person",
+    "context": "Section 365: Kidnapping or abducting with intent secretly and wrongfully to confine person\n\nWhoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "If someone kidnaps my sister to force her into prostitution, what punishment can the kidnapper face?",
+    "answer": "The kidnapper can be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, as per Section 367 IPC.",
+    "ground_truth": "The kidnapper can be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, as per Section 367 IPC.",
+    "section_no": "367",
+    "section_title": "Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc.",
+    "context": "Section 367: Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc.\n\nWhoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt, or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine."
+  },
+  {
+    "question": "Is my grandfather's handwritten note, in which he mentions who gets his assets after he passes away, considered a will under Indian law?",
+    "answer": "According to IPC Section 31, yes, your grandfather's handwritten note, as long as it is a testamentary document, would be considered a will.",
+    "ground_truth": "According to IPC Section 31, yes, your grandfather's handwritten note, as long as it is a testamentary document, would be considered a will.",
+    "section_no": "31",
+    "section_title": "A will",
+    "context": "Section 31: A will\n\nThe words “a will” denote any testamentary document."
+  },
+  {
+    "question": "If someone conspires to commit a crime that carries imprisonment for life, am I guilty of the same punishment if I'm part of that conspiracy?",
+    "answer": "According to Section 120B IPC, yes, you would be punished in the same manner as if you had abetted such offence, which could include punishment with imprisonment for life.",
+    "ground_truth": "According to Section 120B IPC, yes, you would be punished in the same manner as if you had abetted such offence, which could include punishment with imprisonment for life.",
+    "section_no": "120B",
+    "section_title": "Punishment of criminal conspiracy",
+    "context": "Section 120B: Punishment of criminal conspiracy\n\nWhoever is a party to a criminal conspiracy to commit an offence punishable with death, imprisonment for life or rigorous imprisonment for a term of two years or upwards, shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.\nWhoever is a party to a criminal conspiracy other than a criminal conspiracy to commit an offence punishable as aforesaid shall be punished with imprisonment of either description for a term not exceeding six months, or with fine or with both."
+  },
+  {
+    "question": "If my maid steals some money from my purse while it's in my bedroom, can I charge her with theft under the Indian Penal Code?",
+    "answer": "Yes, you can charge your maid with theft under Section 381 IPC, since she was a servant at the time of the theft and the stolen property (the money) was in your possession as her employer.",
+    "ground_truth": "Yes, you can charge your maid with theft under Section 381 IPC, since she was a servant at the time of the theft and the stolen property (the money) was in your possession as her employer.",
+    "section_no": "381",
+    "section_title": "Theft by clerk or servant of property in possession of master",
+    "context": "Section 381: Theft by clerk or servant of property in possession of master\n\nWhoever, being a clerk or servant, or being employed in the capacity of a clerk or servant, commits theft in respect of any property in the possession of his master or employer, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+  },
+  {
+    "question": "What defines a Court of Justice according to the law?",
+    "answer": "A Court of Justice refers to either a single Judge empowered by law to act judicially alone or a body of Judges empowered by law to act judicially as a body, when they are acting in their judicial capacity (Section 20 IPC).",
+    "ground_truth": "A Court of Justice refers to either a single Judge empowered by law to act judicially alone or a body of Judges empowered by law to act judicially as a body, when they are acting in their judicial capacity (Section 20 IPC).",
+    "section_no": "20",
+    "section_title": "Court of Justice",
+    "context": "Section 20: Court of Justice\n\nThe words “Court of Justice” denote a Judge who is empowered by law to act judicially alone, or a body of Judges which is empowered by law to act judicially as a body, when such Judge or body of Judges is acting judicially."
+  },
+  {
+    "question": "If multiple people gang rape a woman, will each of them get the same sentence under Indian law?",
+    "answer": "Yes, according to Section 376D IPC, each person involved in the gang rape shall be deemed to have committed the offence of rape and shall be punished with rigorous imprisonment for at least twenty years, which may extend to life, and with fine.",
+    "ground_truth": "Yes, according to Section 376D IPC, each person involved in the gang rape shall be deemed to have committed the offence of rape and shall be punished with rigorous imprisonment for at least twenty years, which may extend to life, and with fine.",
+    "section_no": "376D",
+    "section_title": "Gang Rape",
+    "context": "Section 376D: Gang Rape\n\nWhere a woman is raped by one or more persons constituting a group or acting in furtherance of a common intention, each of those persons1 shall be deemed to have committed the offence of rape and shall be punished with rigorous imprisonment for a term which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that person’s natural life, and with fine;"
+  },
+  {
+    "question": "Is it considered an affray if three friends get into a physical fight in a crowded street, but no one gets seriously hurt?",
+    "answer": "Yes, under Section 159 IPC, since the three friends are fighting in a public place and disturbing the public peace.",
+    "ground_truth": "Yes, under Section 159 IPC, since the three friends are fighting in a public place and disturbing the public peace.",
+    "section_no": "159",
+    "section_title": "Affray",
+    "context": "Section 159: Affray\n\nWhen two or more persons, by fighting in a public place, disturb the public peace, they are said to “commit an affray”."
+  },
+  {
+    "question": "If I intentionally provide false evidence to a court that could lead to someone being imprisoned for 10 years, will I get punished even if the offence is not capital punishment?",
+    "answer": "According to Section 195 IPC, yes, you would be punished as a person convicted of that offence would be liable to be punished, since the imprisonment term is 7 years or upwards.",
+    "ground_truth": "According to Section 195 IPC, yes, you would be punished as a person convicted of that offence would be liable to be punished, since the imprisonment term is 7 years or upwards.",
+    "section_no": "195",
+    "section_title": "Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life or with imprisonment for 7 Years or upwards",
+    "context": "Section 195: Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life or with imprisonment for 7 Years or upwards\n\nWhoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law for the time being in force in India is not capital, but punishable with imprisonment for life, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished."
+  }
+]
