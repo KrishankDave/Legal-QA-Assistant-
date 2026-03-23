@@ -52,7 +52,7 @@ Python, LangChain, ChromaDB, rank-bm25, sentence-transformers, Ollama with LLaMA
 Future Work 
 
 
-I will be Using CrewAI as a framework to add more function using different Agents. They will use the retrieve Data using IPC files and LLama 3
+I will be Using CrewAI as a framework to add more function using different Agents. They will use the retrieve Data from IPC files and LLama 3
 
 Disclaimer
 
